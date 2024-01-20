@@ -1,0 +1,207 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+#navbar
+{
+	background-color: black;
+	color: white;
+	margin-bottom: 60px;
+	height: 70px;
+	display: flex;
+	position: sticky;
+	top: 0;
+}
+
+ul
+{
+	display: flex;
+	margin: 11px;
+}
+
+hr{
+	height: 2px;
+	background-color:white;
+}
+
+ul li a
+{
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+	margin: 20px;
+	font-size: 20px;
+}
+
+ul li
+{
+	list-style: none;
+	margin-top: 5px;
+}
+
+ul li a:hover
+{
+	font-size: 30px;
+}
+
+#logo
+{
+	height: 45px;
+	width: 50px;
+	margin: 10px;
+	float: left;
+}
+
+body
+{
+	background-color: rgb(1, 1, 57);
+}
+
+#login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+    background-color: rgb(183, 130, 130);
+}
+
+#login_button
+{
+	width: 80%;border-radius: 15px;
+}
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+.input_div label
+{
+	color: white;font-size: 20px;
+}
+
+
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+.input_div_message_page label
+{
+	color: black;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
+.color_white
+{
+	color: white
+}
+
+.user_tick
+{
+	width:20px;
+}
+.message_h4
+{
+	padding-left:5px;color:grey;
+}
+
+#about
+{
+	background-color: aqua;
+	border-radius: 20px;
+	padding: 5px;
+	margin: 5px;
+}
+
+.input_report_div
+{
+	display: none;
+	bottom: 0px;
+	width: 100%;
+	background: rgba(255,255,255,0.8);
+	border:2px solid black;
+	border-radius: 10pz;
+}
+
+.input_report_div #reported_username
+{
+	width: 80%;
+}
+.input_report_div button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
+
+.report_buttons{
+	background-color: black;
+	color: red;
+	width: 200px;
+    height: 65px;
+	border: 2px solid red;
+	border-radius: 10px;
+	font-size: 15px;
+}
+
+.report_buttons:hover{
+	height: 70px;
+	width: 230px;
+}
+
+#send_button:hover{
+	animation: example 5s infinite;
+}
+
+@keyframes example{
+	0% {background-color: blue;}
+	10% {background-color: red;}
+	50% {background-color: yellow;}
+	100%{background-color: green}
+}
+
+.error{
+	animation: shake 0.1s linear 10;
+}
+
+@keyframes shake{
+    0%{
+        transform: translateX(0);
+    }
+    25%{
+        transform: translateX(-2px);
+    }
+    50%{
+        transform: translateX(0);
+    }
+    75%{
+        transform: translateX(2px);
+    }
+    100%{
+        transform: translateX(0);
+    }
+}
