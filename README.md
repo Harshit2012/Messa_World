@@ -13,6 +13,9 @@ Technologies Used:
 - Bootstrap: For responsive design
 - Database: Firebase.
 
+## Preview
+![Screenshot (32)](https://github.com/Harshit2012/Messa_World/assets/105143145/41e8f23d-96d0-4e42-9a41-b85c497f5b47)
+
 ### Cloning Your Fork
 
 To clone your forked repository, use the following command in your terminal:
