@@ -1,8 +1,8 @@
 # Messa World
-Welcome to Messa World, the ultimate responsive chatting website designed to connect people across the globe.
+Welcome to Messa World, the ultimate responsive social media website designed to connect people across the globe.
 
 ## Key Features:
-Real-Time Messaging: Instantly send and receive messages with our efficient real-time communication system.
+Real-Time Posting: Instantly send and receive posts with our efficient real-time communication system.
 Responsive Design: Enjoy a consistent experience across all devices, whether on desktop, tablet, or mobile.
 Room: Create and join room for collaborative discussions and community building.
 Privacy and Security: We prioritize your privacy with end-to-end encryption for all messages.
