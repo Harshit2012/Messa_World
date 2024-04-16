@@ -1,36 +1,40 @@
 <!doctype html>
 <html>
-    <head>
-        <title>Messa World Chat</title>
-        <link rel="icon" href="logo.jpg">
-        <script src="https://www.gstatic.com/firebasejs/7.6.2/firebase-app.js"></script>
-<script src="https://www.gstatic.com/firebasejs/7.6.2/firebase-firestore.js"></script>
-<script src="https://www.gstatic.com/firebasejs/live/3.1/firebase.js"></script>
+<head>
+    <title>Messa World Chat</title>
+    <link rel="icon" href="logo.jpg">
+    <script src="https://www.gstatic.com/firebasejs/7.6.2/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.6.2/firebase-firestore.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/live/3.1/firebase.js"></script>
 
-<link href="https://fonts.googleapis.com/css?family=Yeon+Sung&display=swap" rel="stylesheet"><meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Yeon+Sung&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-<link rel="stylesheet" href="style.css">
-    </head>
-    <body>
-        <div class="container">
-            <button id="logout" onclick="logout()" class="glyphicon glyphicon-log-out btn btn-danger">Logout</button>
-            <center>
-                <div id="output" style="text-align: left;margin-bottom: 70px;"> </div>
-            </center>
-        </div>
-        
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="se-pre-con"></div>
+    <div class="container">
+        <button id="logout" onclick="logout()" class="glyphicon glyphicon-log-out btn btn-danger">Logout</button>
         <center>
-            <div class="input_div_message_page">
-                <label>Send:</label>
-                <input type="text" id="msg" class="form-control" placeholder="Message">
-                <button onclick="send()" id="send_button" class="btn btn-success">Send</button>
-            </div>
+            <div id="output" style="text-align: left;margin-bottom: 70px;"> </div>
         </center>
-        
-        <script src="Messa_page.js"></script>
-    </body>
+    </div>
+
+    <center>
+        <div class="input_div_message_page">
+            <label>Send:</label>
+            <input type="text" id="msg" class="form-control" placeholder="Message">
+            <button onclick="send()" id="send_button" class="btn btn-success">Send</button>
+        </div>
+    </center>
+
+    <script src="Messa_page.js"></script>
+</body>
 </html>
