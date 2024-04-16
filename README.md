@@ -6,7 +6,8 @@ Real-Time Posting: Instantly send and receive posts with our efficient real-time
 Responsive Design: Enjoy a consistent experience across all devices, whether on desktop, tablet, or mobile.
 Room: Create and join room for collaborative discussions and community building.
 Privacy and Security: We prioritize your privacy with end-to-end encryption for all messages.
-Technologies Used:
+
+## Technologies Used:
 - HTML
 - CSS
 - JS
