@@ -1,5 +1,5 @@
 # Messa World
-Welcome to Messa World, the ultimate responsive social media website designed to connect people across the globe.**Text Only**.
+Welcome to Messa World, the ultimate responsive social media website designed to connect people across the globe. Text only.
 
 ## Key Features:
 Real-Time Posting: Instantly send and receive posts with our efficient real-time communication system.
