@@ -16,7 +16,10 @@ body {
 }
 
 .se-pre-con{
-	margin-left: 560px;
+	position: fixed;
+        left: 0px;
+        top: 0px;
+	z-index: 9999
 	border-radius: 50%;
 	border: 16px solid #f3f3f3;
 	border-top: 16px solid #3498db;
