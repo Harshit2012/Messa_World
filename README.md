@@ -55,5 +55,5 @@ Now, your local default branch is up-to-date with the original repository’s de
 ## Live Demo:
 Try this website by clicking [here](https://harshit2012.github.io/Messa_World/)
 
-## Contribution:
-Feel free to contribute.
+## License:
+This repository is under MIT License.
