@@ -2,9 +2,9 @@
 Welcome to Messa World, the ultimate responsive social media website designed to connect people across the globe. Text only.
 
 ## Key Features:
-Real-Time Posting: Instantly send and receive posts with our efficient real-time communication system.
-Responsive Design: Enjoy a consistent experience across all devices, whether on desktop, tablet, or mobile.
-Room: Create and join room for collaborative discussions and community building.
+- Real-Time Posting: Instantly send and receive posts with our efficient real-time communication system.
+- Responsive Design: Enjoy a consistent experience across all devices, whether on desktop, tablet, or mobile.
+- Room: Create and join room for collaborative discussions and community building.
 
 ## Technologies Used:
 - HTML
