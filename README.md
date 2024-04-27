@@ -5,7 +5,6 @@ Welcome to Messa World, the ultimate responsive social media website designed to
 Real-Time Posting: Instantly send and receive posts with our efficient real-time communication system.
 Responsive Design: Enjoy a consistent experience across all devices, whether on desktop, tablet, or mobile.
 Room: Create and join room for collaborative discussions and community building.
-Privacy and Security: We prioritize your privacy with end-to-end encryption for all messages.
 
 ## Technologies Used:
 - HTML
@@ -13,6 +12,7 @@ Privacy and Security: We prioritize your privacy with end-to-end encryption for 
 - JS
 - Bootstrap: For responsive design
 - Database: Firebase
+- Google Fonts
 
 ## Preview
 ![Screenshot (32)](https://github.com/Harshit2012/Messa_World/assets/105143145/41e8f23d-96d0-4e42-9a41-b85c497f5b47)
