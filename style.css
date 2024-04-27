@@ -52,11 +52,23 @@ ul li a:hover {
 	font-size: 30px;
 }
 
-#logo {
-	height: 45px;
+#logo1 {
+	height: 50px;
 	width: 50px;
 	margin: 10px;
 	float: left;
+	border: none;
+	outline: none;
+	border-radius: 50%;
+}
+
+#logo2 {
+	height: 100px;
+	width: 100px;
+	margin: 10px;
+	border: none;
+	outline: none;
+	border-radius: 50%;
 }
 
 body {
@@ -73,6 +85,11 @@ body {
 #login_button {
 	width: 80%;
 	border-radius: 15px;
+	transition: all ease 1s;
+}
+
+#login_button:hover{
+	transform: scale(1.1);
 }
 
 .room_name {
@@ -84,6 +101,11 @@ body {
 #logout {
 	font-size: 20px;
 	float: right;
+	transition: all ease 1s;
+}
+
+#logout:hover{
+	transform: scale(1.1);
 }
 
 
