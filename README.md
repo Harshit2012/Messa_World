@@ -1,4 +1,7 @@
 # Messa World
+<p align="center">
+  <img width="100" height="100" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-25-972_512.gif">
+</p>
 Welcome to Messa World, the ultimate responsive social media website designed to connect people across the globe. Text only.
 
 ## Key Features:
