@@ -19,6 +19,7 @@ Welcome to Messa World, the ultimate responsive social media website designed to
 - Bootstrap: For responsive design
 - Database: Firebase
 - Google Fonts
+- Button.js
 
 ## Preview
 ![Screenshot (32)](https://github.com/Harshit2012/Messa_World/assets/105143145/41e8f23d-96d0-4e42-9a41-b85c497f5b47)
