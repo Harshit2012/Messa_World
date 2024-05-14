@@ -30,7 +30,7 @@ To clone your forked repository, use the following command in your terminal:
 
 ```bash
 git clone https://github.com/Harshit2012/Messa_World.git
-cd repository-name
+cd Messa_World
 ```
 
 ## Syncing Your Fork
