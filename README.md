@@ -4,6 +4,11 @@
 </p>
 Welcome to Messa World, the ultimate responsive social media website designed to connect people across the globe. Text only.
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Harshit2012/Messa_World?tab=MIT-1-ov-file#readme)
+![GitHub Release](https://img.shields.io/github/v/release/harshit2012/messa_world)
+![Forks](https://img.shields.io/github/forks/harshit2012/messa_world)
+![Stars](https://img.shields.io/github/stars/harshit2012/messa_world)
+
 > [!WARNING]  
 > Any post or room name containing foul language will be deleted.
 
